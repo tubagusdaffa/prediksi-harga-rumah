@@ -9,4 +9,4 @@ Proyek ini bertujuan untuk memprediksi harga rumah menggunakan model regresi dan
 - `jabodetabek_house_price.csv` → dataset asli
 
 ## 🌐 Dashboard Online
-Bisa diakses di: [link streamlit cloud kamu]
+Bisa diakses di: [https://prediksi-harga-rumah-rcdtgkxxe7gkxsdsmqsefz.streamlit.app/]
